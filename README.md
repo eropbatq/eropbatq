@@ -1,16 +1,43 @@
-## Hi there 👋
+# Привет! Я [Твое Имя или Ник] 👋
 
-<!--
-**eropbatq/eropbatq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я — разработчик с фокусом на **C# / .NET** и системное администрирование. Люблю сложные задачи, порядок в базах данных и глубокую настройку систем (от Windows до Linux-серверов). 
 
-Here are some ideas to get you started:
+Придерживаюсь принципа, что терминал — это база, а качественный код должен быть надежным и понятным.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Стек технологий:
+
+* **Languages:** C#, JavaScript, SQL, HTML5, CSS3, JS
+* **Backend:** ASP.NET Core, .NET Framework 4.5.2+
+* **Frontend / Desktop:** WPF (XAML), WinForms, Vanilla JS
+* **Databases:** SQL Server (SSMS), SQLite, MS Access
+* **Systems & Tools:** Git, Linux (Arch), Raspberry Pi, Bash/Terminal, Network Configuration (VLAN, NAT, DDNS)
+
+---
+
+### 🚀 Ключевые проекты:
+
+* **SunEnergyFinnaly (ASP.NET Core)** — Серверная часть веб-приложения. Проектирование архитектуры БД и реализация сложной серверной логики.
+* **FastFoodManager (WPF)** — Десктопная система для управления бизнес-процессами. Реализация UI и логики взаимодействия с данными.
+* **SiteWivine** — Интерактивный фронтенд-проект. Работа с DOM, событиями и анимациями на чистом JavaScript.
+* **ClickerGame (C#)** — Проект кликера с системой прогрессии. Работа с игровыми механиками и состояниями.
+
+---
+
+### ⚙️ Над чем я работаю:
+
+- 🛡️ Администрирование и оптимизация игровых серверов (Minecraft/Paper).
+- 🍓 Хостинг и деплой .NET приложений на Raspberry Pi и Linux-средах.
+- 🌐 Настройка защищенных сетей и удаленного доступа.
+
+---
+
+### 📫 Как со мной связаться:
+
+* **Telegram:** [@eropbatq]
+* **Kwork:** [https://kwork.ru/user/eropbatq]
+
+---
+
+> "Порядок в системе — порядок в голове."
