@@ -1,4 +1,4 @@
-# Привет! Я [eropbatq] 👋
+# Привет! Я eropbatq 👋
 
 Я — разработчик с фокусом на **C# / .NET** и системное администрирование. Люблю сложные задачи, порядок в базах данных и глубокую настройку систем (от Windows до Linux-серверов). 
 
@@ -35,8 +35,8 @@
 
 ### 📫 Как со мной связаться:
 
-* **Telegram:** [@eropbatq]
-* **Kwork:** [https://kwork.ru/user/eropbatq]
+* **Telegram:** @eropbatq
+* **Kwork:** https://kwork.ru/user/eropbatq
 
 ---
 
